@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="145394" started-at="2020-05-30T15:06:32Z" finished-at="2020-05-30T15:08:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="145394" started-at="2020-05-30T15:06:32Z" finished-at="2020-05-30T15:08:57Z">
+      <class name="Assignment1">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Assignment1@26653222]" name="beforeMethod" is-config="true" duration-ms="7047" started-at="2020-05-30T15:06:32Z" finished-at="2020-05-30T15:06:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="fbNegativeOne()[pri:0, instance:Assignment1@26653222]" name="fbNegativeOne" duration-ms="17815" started-at="2020-05-30T15:06:39Z" finished-at="2020-05-30T15:06:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fbNegativeOne -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Assignment1@26653222]" name="afterMethod" is-config="true" duration-ms="828" started-at="2020-05-30T15:06:57Z" finished-at="2020-05-30T15:06:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Assignment1@26653222]" name="beforeMethod" is-config="true" duration-ms="5823" started-at="2020-05-30T15:06:57Z" finished-at="2020-05-30T15:07:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="fbNegativeTwo()[pri:0, instance:Assignment1@26653222]" name="fbNegativeTwo" duration-ms="26828" started-at="2020-05-30T15:07:03Z" finished-at="2020-05-30T15:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fbNegativeTwo -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Assignment1@26653222]" name="afterMethod" is-config="true" duration-ms="1205" started-at="2020-05-30T15:07:30Z" finished-at="2020-05-30T15:07:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Assignment1@26653222]" name="beforeMethod" is-config="true" duration-ms="5666" started-at="2020-05-30T15:07:31Z" finished-at="2020-05-30T15:07:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="linkedInOne()[pri:0, instance:Assignment1@26653222]" name="linkedInOne" duration-ms="11591" started-at="2020-05-30T15:07:37Z" finished-at="2020-05-30T15:07:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkedInOne -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Assignment1@26653222]" name="afterMethod" is-config="true" duration-ms="703" started-at="2020-05-30T15:07:49Z" finished-at="2020-05-30T15:07:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Assignment1@26653222]" name="beforeMethod" is-config="true" duration-ms="5749" started-at="2020-05-30T15:07:49Z" finished-at="2020-05-30T15:07:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="linkedInTwo()[pri:0, instance:Assignment1@26653222]" name="linkedInTwo" duration-ms="13884" started-at="2020-05-30T15:07:55Z" finished-at="2020-05-30T15:08:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkedInTwo -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Assignment1@26653222]" name="afterMethod" is-config="true" duration-ms="1004" started-at="2020-05-30T15:08:09Z" finished-at="2020-05-30T15:08:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Assignment1@26653222]" name="beforeMethod" is-config="true" duration-ms="5529" started-at="2020-05-30T15:08:10Z" finished-at="2020-05-30T15:08:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="newToursOne()[pri:0, instance:Assignment1@26653222]" name="newToursOne" duration-ms="17906" started-at="2020-05-30T15:08:15Z" finished-at="2020-05-30T15:08:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newToursOne -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Assignment1@26653222]" name="afterMethod" is-config="true" duration-ms="688" started-at="2020-05-30T15:08:33Z" finished-at="2020-05-30T15:08:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Assignment1@26653222]" name="beforeMethod" is-config="true" duration-ms="5649" started-at="2020-05-30T15:08:34Z" finished-at="2020-05-30T15:08:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="newToursTwo()[pri:0, instance:Assignment1@26653222]" name="newToursTwo" duration-ms="16501" started-at="2020-05-30T15:08:40Z" finished-at="2020-05-30T15:08:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newToursTwo -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Assignment1@26653222]" name="afterMethod" is-config="true" duration-ms="939" started-at="2020-05-30T15:08:56Z" finished-at="2020-05-30T15:08:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- Assignment1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
